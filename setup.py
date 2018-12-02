@@ -20,6 +20,7 @@ setup(
             "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
             "Operating System :: OS Independent",
     ],
+    url="https://github.com/Tadaboody/good_smell",
     py_modules=['good_smell'],
     install_requires=[
         'fire==0.1.3',
